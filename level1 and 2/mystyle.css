@@ -1,0 +1,29 @@
+.extra1 {
+        background-color:rgb(217, 239, 247);
+        height:100%;
+        width:  30%;
+        float:left;
+    }
+    
+    
+    .extra2{
+        background-color:rgb(217, 239, 247);
+        float:right;
+        height: 100%;
+        width:30%;
+        
+    }
+    .content{
+        background-color: rgb(161, 193, 252);
+        overflow:scroll;
+        width:40%;
+        height:100%;
+        float:center;
+    }
+    .cont1{
+        overflow:scroll;
+    }
+    ::-webkit-scrollbar {
+        width: 0px;  
+        background: transparent;  
+    }
