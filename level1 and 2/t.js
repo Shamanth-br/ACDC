@@ -90,7 +90,7 @@ function findimage()
           }
           else
           {
-               document.getElementById("result").innerHTML = 'Not found';
+               document.getElementById("result").innerHTML = 'Not found (Enter the complete path eg:"file:///C:/Users/shama/Desktop/practise/Screenshot%20(1).png)" check the console for path';
                return;
           }
 
